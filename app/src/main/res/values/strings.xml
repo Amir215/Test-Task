@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="home">Home</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="rentickle">Rentickle</string>
+    <string name="our_category">Our Categories</string>
+    <string name="trending_products">Trending Products</string>
+    <string name="recent_products">Recently Viewed Products</string>
+    <string name="search_for_furniture_appliances_etc">Search for Furniture etc.</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="living_room">living Room</string>
+    <string name="dslr_camera">DSLR Camera</string>
+    <string name="appliances">Appliances</string>
+    <string name="storage">Storage</string>
+    <string name="pack">Package</string>
+    <string name="sofa">Sofa</string>
+    <string name="get_10_off_on_this_product_by_nusing_coupon_code_rent10">Get 10% off on this product by \nusing coupon code RENT10</string>
+</resources>
